@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\Finance_Management\obj\Debug\Finance_Management.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\Finance_Management\obj\Debug\Finance_Management.csproj.CoreCompileInputs.cache
