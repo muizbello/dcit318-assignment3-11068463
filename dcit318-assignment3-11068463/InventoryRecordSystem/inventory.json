@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "Alienware Aurora 16X",
+    "Quantity": 10,
+    "DateAdded": "2025-08-13T20:57:01.8176001+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Logitech 15 pro wireless",
+    "Quantity": 20,
+    "DateAdded": "2025-08-13T20:57:01.8247047+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Oraimo Freepods 12",
+    "Quantity": 30,
+    "DateAdded": "2025-08-13T20:57:01.8247078+00:00"
+  }
+]

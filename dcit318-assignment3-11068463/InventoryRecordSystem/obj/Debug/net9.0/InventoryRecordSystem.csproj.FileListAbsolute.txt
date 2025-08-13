@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\InventoryRecordSystem\bin\Debug\net9.0\Finance_Management.exe
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\InventoryRecordSystem\bin\Debug\net9.0\Finance_Management.deps.json
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\InventoryRecordSystem\bin\Debug\net9.0\Finance_Management.runtimeconfig.json
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\InventoryRecordSystem\bin\Debug\net9.0\Finance_Management.dll
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\InventoryRecordSystem\bin\Debug\net9.0\Finance_Management.pdb
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\InventoryRecordSystem\obj\Debug\net9.0\InventoryRecordSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\InventoryRecordSystem\obj\Debug\net9.0\InventoryRecordSystem.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\InventoryRecordSystem\obj\Debug\net9.0\InventoryRecordSystem.AssemblyInfo.cs
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\InventoryRecordSystem\obj\Debug\net9.0\InventoryRecordSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\InventoryRecordSystem\obj\Debug\net9.0\InventoryRecordSystem.sourcelink.json
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\InventoryRecordSystem\obj\Debug\net9.0\Finance_Management.dll
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\InventoryRecordSystem\obj\Debug\net9.0\refint\Finance_Management.dll
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\InventoryRecordSystem\obj\Debug\net9.0\Finance_Management.pdb
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\InventoryRecordSystem\obj\Debug\net9.0\InventoryRecordSystem.genruntimeconfig.cache
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\InventoryRecordSystem\obj\Debug\net9.0\ref\Finance_Management.dll
