@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\HealthSystemApp\obj\Debug\HealthSystemApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\HealthSystemApp\obj\Debug\HealthSystemApp.csproj.CoreCompileInputs.cache

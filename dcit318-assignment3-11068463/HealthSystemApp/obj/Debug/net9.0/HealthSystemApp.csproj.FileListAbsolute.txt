@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.AssemblyInfo.cs
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.sourcelink.json
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\HealthSystemApp\bin\Debug\net9.0\HealthSystemApp.exe
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\HealthSystemApp\bin\Debug\net9.0\HealthSystemApp.deps.json
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\HealthSystemApp\bin\Debug\net9.0\HealthSystemApp.runtimeconfig.json
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\HealthSystemApp\bin\Debug\net9.0\HealthSystemApp.dll
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\HealthSystemApp\bin\Debug\net9.0\HealthSystemApp.pdb
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.dll
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\HealthSystemApp\obj\Debug\net9.0\refint\HealthSystemApp.dll
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.pdb
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.genruntimeconfig.cache
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\HealthSystemApp\obj\Debug\net9.0\ref\HealthSystemApp.dll
