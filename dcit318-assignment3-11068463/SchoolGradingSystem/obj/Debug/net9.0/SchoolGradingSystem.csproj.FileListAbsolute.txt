@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\SchoolGradingSystem\bin\Debug\net9.0\Finance_Management.exe
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\SchoolGradingSystem\bin\Debug\net9.0\Finance_Management.deps.json
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\SchoolGradingSystem\bin\Debug\net9.0\Finance_Management.runtimeconfig.json
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\SchoolGradingSystem\bin\Debug\net9.0\Finance_Management.dll
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\SchoolGradingSystem\bin\Debug\net9.0\Finance_Management.pdb
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.AssemblyInfo.cs
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.sourcelink.json
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\SchoolGradingSystem\obj\Debug\net9.0\Finance_Management.dll
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\SchoolGradingSystem\obj\Debug\net9.0\refint\Finance_Management.dll
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\SchoolGradingSystem\obj\Debug\net9.0\Finance_Management.pdb
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.genruntimeconfig.cache
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\SchoolGradingSystem\obj\Debug\net9.0\ref\Finance_Management.dll

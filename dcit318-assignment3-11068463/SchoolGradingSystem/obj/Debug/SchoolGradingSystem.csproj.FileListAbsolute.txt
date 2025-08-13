@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\SchoolGradingSystem\obj\Debug\SchoolGradingSystem.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\dcit318-assignment3-11068463\dcit318-assignment3-11068463\SchoolGradingSystem\obj\Debug\SchoolGradingSystem.csproj.CoreCompileInputs.cache
