@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finance_Management", "Finan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthSystemApp", "HealthSystemApp\HealthSystemApp.csproj", "{23E95D06-2F3A-426D-B5DE-8FA07B3FAD23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarehouseInventoryManagement", "WarehouseInventoryManagement\WarehouseInventoryManagement.csproj", "{E1D6FC0C-9345-41D5-BE53-848156B7B5C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{23E95D06-2F3A-426D-B5DE-8FA07B3FAD23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23E95D06-2F3A-426D-B5DE-8FA07B3FAD23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23E95D06-2F3A-426D-B5DE-8FA07B3FAD23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1D6FC0C-9345-41D5-BE53-848156B7B5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D6FC0C-9345-41D5-BE53-848156B7B5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D6FC0C-9345-41D5-BE53-848156B7B5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D6FC0C-9345-41D5-BE53-848156B7B5C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
